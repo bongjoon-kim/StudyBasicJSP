@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="EUC-KR">
-<title>Insert title here</title>
+<title>include 액션태그</title>
 </head>
 <body>
 	<% request.setCharacterEncoding("EUC-KR"); %>
